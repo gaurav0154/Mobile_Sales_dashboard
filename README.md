@@ -17,7 +17,7 @@ Designed for decision-makers in retail, this dashboard showcases real-world data
 - Sales & SPLY by Year, Month, Quarter: Comparative bar charts
 - Quantity by Month: Monthly performance line chart
 - 🌍 Regional Insights:
-- Interactive map of Tamil Nadu cities
+- Interactive map of cities
 - City-wise sales & transaction breakdown (e.g., Chennai, Madurai, Coimbatore)
 - 📱 Product & Customer Behavior:
 - Sales by Mobile Model (A–E)
