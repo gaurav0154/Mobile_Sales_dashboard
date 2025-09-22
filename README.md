@@ -12,7 +12,7 @@ Designed for decision-makers in retail, this dashboard showcases real-world data
 - Avg. Price: ₹40K
 - 📅 Time-Based Analysis:
 - MTD by Day: Daily cumulative sales trend
-- Sales & SPV by Year, Month, Quarter: Comparative bar charts
+- Sales & SPLY by Year, Month, Quarter: Comparative bar charts
 - Quantity by Month: Monthly performance line chart
 - 🌍 Regional Insights:
 - Interactive map of Tamil Nadu cities
