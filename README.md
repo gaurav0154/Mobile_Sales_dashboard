@@ -1,6 +1,8 @@
 📊 Mobile Sales Data Dashboard
 Power BI Project  Sales Analytics
+
 🧩 Project Overview
+
 This interactive Power BI dashboard analyzes mobile sales performance across Tamil Nadu, India. It empowers business stakeholders to monitor KPIs, uncover regional trends, and evaluate product and payment behavior — all through clean visuals and dynamic insights.
 Designed for decision-makers in retail, this dashboard showcases real-world data storytelling, DAX logic, and layout precision — ideal for demonstrating hands-on analytics skills in job interviews and portfolio reviews.
 
