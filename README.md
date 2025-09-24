@@ -25,7 +25,7 @@ Designed for decision-makers in retail, this dashboard showcases real-world data
 - Day-of-week sales trends
 
 ## 📈 Business Insights
-- 🏙️ Chennai leads with ₹167M in sales and 1,000+ transactions — indicating strong urban demand
+- 🏙️ Delhi leads with ₹203.8 M in sales and 1,000+ transactions — indicating strong urban demand
 - 📆 Sales grow steadily through the month, peaking at ₹26.8M on Day 31
 - 📱 Model A dominates, suggesting customer preference or better margins
 - 💳 UPI & Debit Cards are most used — useful for bundling and loyalty strategies
