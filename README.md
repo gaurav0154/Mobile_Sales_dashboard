@@ -1,49 +1,56 @@
-## 📊 Mobile Sales Data Dashboard
-## Power BI Project  Sales Analytics
+## 🚀 Mobile Sales Data Dashboard - Power BI
 
-## 🧩 Project Overview
-This interactive Power BI dashboard analyzes mobile sales performance across India. It empowers business stakeholders to monitor KPIs, uncover regional trends, and evaluate product and payment behavior — all through clean visuals and dynamic insights.
-Designed for decision-makers in retail, this dashboard showcases real-world data storytelling, DAX logic, and layout precision — ideal for demonstrating hands-on analytics skills in job interviews and portfolio reviews.
+## 📖 Project Overview
+This project is an interactive Power BI dashboard built to analyze and visualize Mobile Sales Data.
+The goal was to create a single source of truth for tracking sales performance, customer behavior, and payment insights.
+The dashboard enables businesses to:
+Monitor key KPIs such as Total Sales, Quantity Sold, Transactions, and Average Price.
+Explore sales trends over time with drill-down capabilities.
+Identify top-performing mobile models, brands, and payment methods.
+Compare year-over-year (YoY) and month-to-date (MTD) performance.
 
-## 🚀 Key Features
-- 📌 KPI Cards:
-- Total Sales: ₹769M
-- Quantity Sold: 19K
-- Transactions: 4K
-- Avg. Price: ₹40K
-- 📅 Time-Based Analysis:
-- MTD by Day: Daily cumulative sales trend
-- Sales & SPLY by Year, Month, Quarter: Comparative bar charts
-- Quantity by Month: Monthly performance line chart
-- 🌍 Regional Insights:
-- Interactive map of cities
-- City-wise sales & transaction breakdown (e.g., Chennai, Madurai, Coimbatore)
-- 📱 Product & Customer Behavior:
-- Sales by Mobile Model (A–E)
-- Ratings distribution (1–5 stars)
-- Payment method split: Credit Card, Debit Card, UPI, Net Banking
-- Day-of-week sales trends
+## 📊 Dashboard Features
+🔹 Comprehensive Overview
+Total Sales, Quantity, Transactions, and Average Price.
+Geo-map visualization to track city-wise performance.
+Drill-down capabilities by mobile model, brand, and payment method.
 
-## 📈 Business Insights
-- 🏙️ Delhi leads with ₹203.8 M in sales and 1,000+ transactions — indicating strong urban demand
-- 📆 Sales grow steadily through the month, peaking at ₹26.8M on Day 31
-- 📱 Model A dominates, suggesting customer preference or better margins
-- 💳 UPI & Debit Cards are most used — useful for bundling and loyalty strategies
-- ⭐ High ratings (4–5 stars) reflect strong customer satisfaction
+🔹 Month-to-Date (MTD) Report
+Sales trend visualization by day.
+Cumulative performance analysis with clear growth tracking.
 
-## 🛠️ Tools & Techniques
-- Power BI: DAX Measures, Drill-through, KPI Cards, Slicers
-- Power Query: Data Cleaning, Unpivoting, Merge Queries
-- Excel: Source Structuring, Lookup Tables
+🔹 Year-on-Year & Period Comparisons
+Comparison of current period vs. same period last year (SPLY).
+Breakdown by year, quarter, and month.
+Clear visuals highlighting performance improvements or gaps.
 
-## 📂 Data Source
-- Mobile Sales Data.xlsx (raw data)
-- Transformed using Power BI and Power Query
+🔹 Advanced Visuals & Insights
+Ratings analysis (Good, Average, Poor).
+Sales contribution by mobile models and brands.
+Payment method analysis (UPI, Cash, Credit Card, Debit Card).
+Sales performance by day of the week to identify demand patterns.
 
-## 🎯 Why This Project Matters
-This dashboard reflects my ability to:
-- Build recruiter-ready, business-relevant dashboards
-- Apply real-world analytics to uncover actionable insights
-- Design clean, interactive layouts with high visual standards
-- Use DAX and Power Query for scalable data modeling
-Whether you're a hiring manager, recruiter, or collaborator — this project demonstrates my hands-on expertise in transforming raw data into decision-ready visuals.
+## 🛠 Tools & Functions Used
+Power BI for dashboard creation.
+DAX Measures for:
+MTD, SPLY, and Average Price calculations.
+Custom Calendar Table for time intelligence.
+Drill-through, Slicers, and Dynamic Filters for interactivity.
+
+Visuals used:
+Bar, Line, Pie, and Map charts for intuitive storytelling.
+
+## 📌 Key Takeaways
+
+✅ Apple, OnePlus, and Samsung lead in overall sales.
+✅ Strong growth observed in specific months with peak transactions.
+✅ Digital payments (UPI, Cards) dominate over cash transactions.
+✅ Significant YoY improvement in sales performance.
+
+## 🎯 Conclusion
+
+This dashboard provides actionable insights for decision-making by simplifying sales monitoring and offering a clear view of performance.
+It empowers stakeholders to:
+Quickly evaluate KPIs.
+Spot trends and growth opportunities.
+Plan future strategies backed by data.
